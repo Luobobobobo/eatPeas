@@ -1,0 +1,11 @@
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\bin\Debug\netcoreapp2.1\arraySort.deps.json
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\bin\Debug\netcoreapp2.1\arraySort.runtimeconfig.json
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\bin\Debug\netcoreapp2.1\arraySort.runtimeconfig.dev.json
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\bin\Debug\netcoreapp2.1\arraySort.dll
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\bin\Debug\netcoreapp2.1\arraySort.pdb
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.csprojAssemblyReference.cache
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.csproj.CoreCompileInputs.cache
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.AssemblyInfoInputs.cache
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.AssemblyInfo.cs
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.dll
+D:\大学\大四上学期\虚拟现实\控制台输出\arraySort\arraySort\obj\Debug\netcoreapp2.1\arraySort.pdb
